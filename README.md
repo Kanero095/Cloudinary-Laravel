@@ -31,7 +31,7 @@ composer require cloudinary-labs/cloudinary-laravel
 ### ⚙️ 3. Publish File Konfigurasi
 
 ```
-php artisan vendor:publish --provider="CloudinaryLabs\\CloudinaryLaravel\\CloudinaryServiceProvider" --tag="cloudinary-laravel-config"
+php artisan vendor:publish --provider="CloudinaryLabs\\CloudinaryLaravel\\CloudinaryServiceProvider"
 ```
 
 File konfigurasi akan muncul di:
